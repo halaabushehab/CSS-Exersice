@@ -1,0 +1,55 @@
+*{
+    font-size: 25PX;
+}
+h3{
+    text-decoration: underline;
+}
+
+
+
+ol{
+    list-style-type: circle;
+}
+
+
+ol li {
+    color: blue;
+}
+
+
+
+
+ul li:nth-child(1) {
+    font-weight: bold;
+}
+
+
+ul a{
+    color:red ;
+}
+
+
+div p:nth-child(4) a {
+    background-color: yellow;
+color: rgb(68, 15, 15);
+
+}
+
+
+
+p a{
+    color:orange
+}
+
+
+
+
+ p:nth-child(2){
+color: blue;
+}
+
+
+
+
+
+

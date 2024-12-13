@@ -1,0 +1,17 @@
+ 
+
+table{
+    border-spacing: 10px;
+}
+ 
+ tr ,th{
+    border: 1px solid black;
+    border-radius: 10%;
+    padding: 10px;
+
+}
+
+th{
+    box-shadow: 3px 3px rgba(0, 0, 0, 0.5);
+
+}
