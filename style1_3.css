@@ -19,7 +19,7 @@ ol li {
 
 
 
-ul li:nth-child(1) {
+ul  span {
     font-weight: bold;
 }
 
@@ -29,7 +29,7 @@ ul a{
 }
 
 
-div p:nth-child(4) a {
+  p2 a {
     background-color: yellow;
 color: rgb(68, 15, 15);
 
@@ -43,7 +43,7 @@ p a{
 
 
 
- p:nth-child(2){
+ p > span{
 color: blue;
 }
 
